@@ -1,0 +1,302 @@
+Incident Month,Year,Severity,State,Location,Latitude,Longitude,Shark
+8,2010,fatal,WA,"south point beach, cowaramup bay",-33.85,114.9666667,white shark
+1,2010,injured,VIC,"13th beach, boings",-38.28333333,144.4333333,white shark
+1,2010,injured,QLD,"thursday island, torre strait",-10.56666667,142.2166667,whitetip reef shark
+2,2010,injured,QLD,"dent island, whitsunday islands",-20.35,148.9333333,bull shark
+2,2010,injured,NSW,"mona vale, bongin bongin bay",-33.66666667,151.3,wobbegong
+5,2010,injured,NSW,"crescent heads, point plomer",-31.3,152.9666667,bull shark
+6,2010,injured,WA,"conspicuous cliff beach, walpole",-35.03333333,116.8333333,white shark
+8,2010,injured,NSW,crescent head,-31.18333333,152.9666667,white shark
+9,2010,injured,NSW,"yamba, lluka, frasers reef",-29.4,153.3333333,white shark
+10,2010,injured,WA,"wedge island, north of perth",-30.83333333,115.2666667,white shark
+10,2010,injured,NSW,"mullawarra beach, arrawarra",-30.06666667,153.2,wobbegong
+10,2010,injured,WA,"garden island, perth",-32.18333333,115.6833333,white shark
+1,2010,uninjured,QLD,"bargara, archies beach",-24.8,152.45,white shark
+2,2010,uninjured,NSW,"yamba, turners beach",-29.41666667,153.3666667,white shark
+2,2011,fatal,SA,perforated island nr coffin bay,-34.71666667,135.15,white shark
+8,2011,fatal,QLD,"challenger bay, palm island",-18.71666667,146.5666667,tiger shark
+9,2011,fatal,WA,bunker bay,-33.53333333,115.0333333,white shark
+10,2011,fatal,WA,rottnest island,-32,115.45,white shark
+10,2011,fatal,WA,"cottesloe beach, perth",-31.98333333,115.75,white shark
+2,2011,injured,WA,exmouth,-21.95,114.1166667,whaler shark
+3,2011,injured,NSW,"port stephens, jimmys beach",-32.73333333,152.1833333,white shark
+3,2011,injured,NSW,crowdy heads,-31.83333333,152.7333333,white shark
+4,2011,injured,WA,"red bluff, nr carnarvon",-24.48333333,113.4,whaler shark
+5,2011,injured,NSW,big seal rocks,-32.45,152.5333333,wobbegong
+11,2011,injured,QLD,peregain beach,-26.46666667,153.0833333,wobbegong
+12,2011,injured,NSW,"suffolk park, broken head beach",-28.7,153.6,white shark
+12,2011,injured,NSW,"maroubra beach, sydney",-33.93333333,151.25,wobbegong
+12,2011,injured,NSW,"yamba, angourie beach",-29.48333333,153.35,white shark
+10,2011,uninjured,VIC,"elwood beach, port phillip bay",-37.88333333,144.9833333,port jackson shark
+3,2012,fatal,WA,"stratham beach, bunbury",-33.46666667,115.5166667,white shark
+7,2012,fatal,WA,"wedge island, north of perth",-30.83333333,115.2666667,white shark
+1,2012,injured,NSW,north avoca beach,-33.45,151.4333333,white shark
+1,2012,injured,NSW,"redhead beach, newcastle",-33,151.7166667,white shark
+1,2012,injured,WA,"the lagoon, coral bay",-23.13333333,113.7666667,tiger shark
+2,2012,injured,NSW,"port stephens, broughton island",-32.6,152.3166667,wobbegong
+3,2012,injured,QLD,"nobbys beach, gold coast",-28.05,153.4333333,bull shark
+4,2012,injured,SA,"dolphin bay, yorke peninsula",-35.18333333,136.85,white shark
+5,2012,injured,NSW,"forster, barge wreck",-32.21666667,152.6,wobbegong
+6,2012,injured,VIC,port campbell,-38.61666667,142.9833333,white shark
+6,2012,injured,TAS,south west national park,-43.51666667,146.2333333,white shark
+7,2012,injured,SA,"streaky bay, black beach",-32.76666667,134.2,white shark
+8,2012,injured,WA,"red bluff, north of carnarvon",-24.38333333,113.3833333,tiger shark
+12,2012,injured,NSW,"kylie's beach, diamond head",-31.73333333,152.7833333,bull shark
+12,2012,injured,NSW,"south west rocks, fish rock",-30.86666667,153.0333333,grey nurse shark
+1,2012,uninjured,NSW,"tweed river mouth, duranbah",-28.16666667,153.55,tiger shark
+2,2012,uninjured,NSW,"wallabi point, old bar",-31.98333333,152.5666667,white shark
+2,2012,uninjured,QLD,wurtulla beach,-26.75,153.1333333,whaler shark
+3,2012,uninjured,NSW,"lion island, hawkesbury river",-33.55,151.3166667,
+5,2012,uninjured,NSW,"redhead beach, newcastle",-33,151.7,white shark
+6,2012,uninjured,WA,"pinnaroo point, kallaroo, perth",-31.78333333,115.7166667,white shark
+10,2012,uninjured,WA,"mullaloo beach, perth",-31.76666667,115.7166667,white shark
+12,2012,uninjured,NSW,"dee why beach, sydney",-33.75,151.3,white shark
+11,2013,fatal,NSW,"coffs harbour, campbell's beach",-30.26666667,153.1333333,tiger shark
+11,2013,fatal,WA,"gracetown, umbies break",-33.85,114.9666667,white shark
+1,2013,injured,WA,"cape legendre, cape legendre island",-20.35,116.8166667,whaler shark
+1,2013,injured,QLD,noosa heads,-26.36666667,153.0833333,tiger shark
+3,2013,injured,WA,"geraldton, african reef",-28.8,114.6,bronze whaler shark
+4,2013,injured,NSW,"yamba, spooky beach, angourie",-29.46666667,153.35,wobbegong
+5,2013,injured,NSW,"byron bay, wategos beach",-28.63333333,153.6,wobbegong
+7,2013,injured,VIC,flinders,-38.46666667,145.0166667,white shark
+10,2013,injured,NSW,narrabeen beach (south),-33.71666667,151.3,wobbegong
+10,2013,injured,WA,"exmouth, turquoise bay",-21.95,114.1166667,grey reef shark
+10,2013,injured,WA,"poison creek beach, israelite bay",-33.95,123.9166667,white shark
+12,2013,injured,QLD,gold coast,-28.1,153.4666667,wobbegong
+12,2013,injured,NSW,"port macquarie, shelley beach",-31.45,152.9166667,wobbegong
+5,2013,uninjured,WA,"secret harbour, perth",-32.4,115.7333333,white shark
+6,2013,uninjured,NSW,"target beach, jarvis bay",-35.06666667,150.7833333,white shark
+2,2014,fatal,SA,"goldsmith beach, yorke peninsula",-35.13333333,137.7,white shark
+4,2014,fatal,NSW,tathra,-36.71666667,149.9833333,white shark
+9,2014,fatal,NSW,"byron bay, clarkes beach",-28.63333333,153.6,white shark
+12,2014,fatal,WA,"cheynes beach, albany",-34.88003124,118.404958,white shark
+12,2014,fatal,QLD,"rudder reef, port douglas",-16.2,145.75,tiger shark
+3,2014,injured,NSW,"port macquarie, lighthouse beach",-31.46666667,152.9166667,wobbegong
+4,2014,injured,WA,"coral bay, south passage",-23.13333333,113.75,whaler shark
+5,2014,injured,QLD,"chevron island, narang river",-27.98333333,153.4166667,bull shark
+6,2014,injured,SA,"parsons beach, fleurieu peninsula",-35.63087083,138.4666667,white shark
+6,2014,injured,NSW,"seven mile beach, nowra",-34.83333333,150.75,wobbegong
+6,2014,injured,SA,middleton beach,-35.5,138.7166667,white shark
+6,2014,Injured,SA,middleton beach,-35.5,138.7166667,white shark
+8,2014,injured,WA,gnaraloo station,-23.78333333,113.5,whaler shark
+9,2014,injured,NSW," port macquarie, town beach",-31.41666667,152.9166667,wobbegong
+10,2014,injured,NSW,avoca beach,-33.45,151.4333333,wobbegong
+10,2014,injured,NSW,"wallabi point, old bar",-31.98333333,152.5666667,wobbegong
+10,2014,injured,WA,"wylie bay, esperance",-33.83333333,121.9166667,white shark
+11,2014,injured,NSW,moonee bay,-30.2,159.15,wobbegong
+11,2014,injured,NSW,"casey's beach, bateman's bay",-35.73333333,150.2,wobbegong
+11,2014,injured,NSW,"dee why beach, sydney",-33.75,151.3,wobbegong
+11,2014,injured,WA,"pyramind's beach, dawesville",-32.6,115.6166667,bronze whaler shark
+12,2014,injured,NSW,booderee national park,-35.1338,150.686,
+2,2014,uninjured,WA,rottnest island,-32,115.55,white shark
+3,2014,uninjured,VIC,"winkipop, bell's beach",-38.36666667,144.2666667,white shark
+5,2014,uninjured,SA,elliston bar,-33.63333333,134.8666667,white shark
+2,2015,fatal,NSW,"ballina, shelly beach",-28.85,153.5833333,white shark
+7,2015,fatal,TAS,maria island,-42.63333333,147.9833333,white shark
+1,2015,injured,NSW,"port stephens, piggies beach",-32.68333333,152.0333333,wobbegong
+1,2015,injured,NSW,mollymook,-35.33333333,150.4666667,bronze whaler shark
+2,2015,injured,NSW,"ballina, seven mile beach",-28.88333333,153.5666667,white shark
+2,2015,injured,NSW,"merewether beach, newcastle",-32.95,151.75,wobbegong
+3,2015,injured,NSW,"lord howe island, ned's beach",-31.51666667,159.05,galapagos shark
+4,2015,injured,NSW,"lord howe island, ned's beach",-31.51666667,159.05,galapagos shark
+4,2015,injured,NSW,"mackenzies beach, bateman's bay",-35.8,150.2166667,wobbegong
+4,2015,injured,SA,fishery bay nr port lincoln,-34.86666667,135.7666667,white shark
+5,2015,injured,NSW,"saltwater point, nr taree",-32.01666667,152.5333333,white shark
+6,2015,injured,WA,"ocean beach, demark",-35.01666667,117.3333333,white shark
+6,2015,injured,WA,"rottnest island, natural jetty",-31.98333333,115.5333333,wobbegong
+6,2015,injured,NSW,"mill point, south durras",-35.65,150.2833333,tiger shark
+7,2015,injured,NSW,"evans head, main beach",-29.1,153.4333333,white shark
+7,2015,injured,NSW,"yamba, flat rock, pippi beach",-29.43333333,153.3666667,white shark
+7,2015,injured,VIC,tyrendarra beach,-38.25,141.7833333,white shark
+7,2015,injured,NSW,"ballina, lighthouse beach",-28.86666667,153.5833333,white shark
+8,2015,injured,NSW,"port macquarie, lighthouse beach",-31.46666667,152.9166667,white shark
+9,2015,injured,NSW,"north shelly beach, gosford",-33.05,152.5333333,
+9,2015,injured,NSW,black head beach,-32.06666667,152.5333333,white shark
+9,2015,injured,QLD,"russell island, frankland islands, gbr",-17.21666667,146.0833333,
+10,2015,injured,WA,"cheynes beach, albany, wa",-34.88003124,118.404958,white shark
+10,2015,injured,WA,"pyramids beach, mandurah",-32.6,115.6166667,grey nurse shark
+11,2015,injured,NSW,"ballina, north wall",-28.86666667,153.5833333,bull shark
+1,2015,uninjured,NSW,"byron bay, wategos beach",-28.63333333,153.6166667,white shark
+1,2015,uninjured,QLD,"nerang river, surfers paradise",-27.63333333,153.45,bull shark
+1,2015,uninjured,NSW,"ballina, flat rock",-28.83333333,153.6,white shark
+6,2015,uninjured,NSW,"byron bay, belongi beach",-28.63333333,153.6,white shark
+7,2015,uninjured,QLD,burleigh heads,-28.1,153.465,white shark
+7,2015,uninjured,TAS,maria island,-42.63333333,147.9833333,white shark
+7,2015,uninjured,NSW,lennox head,-28.78333333,153.5833333,white shark
+8,2015,uninjured,QLD,"davies reef, off townsville",-18.83333333,147.6333333,tiger shark
+5,2016,fatal,WA,"gearies beach, mandurah",-32.58333333,115.6333333,white shark
+6,2016,fatal,WA,"one mile reef, mindarie",-31.66666667,115.6666667,white shark
+1,2016,injured,QLD,caloundra,-26.8,153.1333333,wobbegong
+1,2016,injured,QLD,heron island,-23.43333333,151.9,blacktip reef shark
+1,2016,injured,QLD,"miall island, yeppoon",-23.15,150.9,tiger shark
+2,2016,injured,NSW,barrenjoey,-23.56666667,151.3166667,wobbegong
+3,2016,injured,SA,wrights bay beach,-37.03333333,139.7333333,bronze whaler shark
+3,2016,injured,NSW,"bombo beach, kiama",-34.65,150.85,white shark
+4,2016,injured,NSW,"main beach, byron bay",-28.63333333,153.6,wobbegong
+6,2016,injured,WA,coral bay coast,-23.02411667,113.1294,grey reef shark
+9,2016,injured,NSW,"lighthouse beach, ballina",-28.86666667,153.5833333,white shark
+10,2016,injured,QLD,"kings beach, sunshine coast",-27.335,153.235,white shark
+10,2016,injured,NSW,"sharpes beach, ballina",-28.83333333,153.6,white shark
+10,2016,injured,NSW,"tallows beach, byron bay",-33.08945,151.0587667,white shark
+10,2016,injured,QLD,"whitehaven beach, whitsunday island",-20.23333333,148.95,lemon shark
+12,2016,injured,NSW,"the ruin, booti booti national park",-32.30595,152.52275,white shark
+12,2016,injured,WA,"bundegi sanctuary zone, exmouth",-21.15741667,114.0218833,whaler shark
+12,2016,injured,WA,trigg beach,-31.14531667,115.1265,
+2,2016,uninjured,NSW,hams beach (part of caves beach),-34,151.65,white shark
+2,2016,uninjured,TAS,"nettley bay, marrawah",-40.91666667,144.6166667,white shark
+3,2016,uninjured,NSW,cresent head,-31.18333333,152.9666667,white shark
+3,2016,uninjured,NSW,"cronulla beach, sydney",-34.03333333,151.15,white shark
+5,2016,uninjured,NSW,kingscliff ,-28.25276667,153.5921833,bronze whaler shark
+6,2016,uninjured,NSW,minnamurra,-34.6215,150.8568,
+6,2016,uninjured,NSW,kingscliff,-28.2646,153.5777,bronze whaler shark
+7,2016,uninjured,NSW,"big rocky, port stephens",-32.717,152.1049,
+7,2016,uninjured,NSW,"sharpes beach, ballina",-28.8377,153.6044,white shark
+7,2016,uninjured,NSW,cauarina beach,-28.3037,153.5742,white shark
+9,2016,uninjured,VIC,"bells beach, winkipop reef",-38.06115,144.04745,white shark
+9,2016,uninjured,WA,"injidup beach, yallingup",-33.11656667,114.1649,white shark
+12,2016,uninjured,QLD,lockhart river,-12.45183333,143.3444167,bull shark
+4,2017,fatal,WA,"the kelp beds, wylie bay, esperance",-33.83250092,121.9968696,white shark
+1,2017,injured,QLD,"murry island, torres strait, (80km east)",-9.863916667,144.7908167,whaler shark
+1,2017,injured,NSW,merrimbula main beach,-36.88666667,149.9131833,wobbegong
+1,2017,injured,QLD,flaggy rock,-21.96676667,149.4843833,
+2,2017,injured,QLD,hinchinbrook island,-18.24948333,146.1839333,tiger shark
+2,2017,injured,WA,mauds point coral bay,-23.2411667,113.1294,bull shark
+3,2017,injured,NSW,"the farm, killalea state park",-34.60465,150.8677833,
+4,2017,injured,NSW,"one mile beach, port stephens",-32.7667,152.1127,grey nurse shark
+8,2017,injured,VIC,"cathedral point, lorne",-38.5367,143.9715,white shark
+9,2017,injured,NSW,main beach illuka,-29.59387,153.3322,white shark
+9,2017,injured,WA,"sams creek, karratha",-20.61367,117.1863,whaler shark
+10,2017,injured,NSW,"birubi beach, port stephens",-32.798333,152.079167,wobbegong
+11,2017,injured,NSW,avoca beach,-33.465,151.435,white shark
+1,2017,uninjured,QLD,northern tip of cape york (unknown location),-10.65406667,142.5072333,whaler shark
+2,2017,uninjured,WA,"falcon bay, mandurah",-32.567,115.65,
+4,2017,uninjured,QLD,moreton bay off redcliff,-27.05206667,153.05745,
+6,2017,uninjured,NSW,avoca beach,-33.0775,151.0725,white shark
+6,2017,uninjured,WA,"casuarina point, bunbury",-33.3146,115.635,white shark
+9,2017,uninjured,WA,"north point beach, gracetown",-33.8585,114.9843,white shark
+10,2017,uninjured,SA,"lady bay, normanville, adelaide",-35.448,138.318,white shark
+12,2017,uninjured,NSW,"birubi, port stephens",-32.7876,152.08002,grey nurse shark
+11,2018,fatal,QLD,"cid harbour, whitsundays",-20.25,148.9333,
+1,2018,injured,WA,"cone bay, kimberley",-16.4683,123.5353,bull shark
+1,2018,injured,NSW,"five islands, wollongong",-34.425072,150.893143,white shark
+1,2018,injured,WA,gracetown,-33.8416,115.0221,wobbegong
+1,2018,injured,QLD,lizard island,-14.668,145.4638,grey reef shark
+2,2018,injured,NSW,"kiama surf beach, kiama",-34.67,150.84,whaler shark
+2,2018,injured,WA,"mullaoo beach, joondalup",-31.7789,115.7326,wobbegong
+2,2018,injured,WA,"rocky point, eagle bay",-33.5638,115.0629,wobbegong
+2,2018,injured,NSW,"congwong beach, botany bay",-33.993,151.1753,white shark
+3,2018,injured,VIC,"winkipop, bell's beach",-38.37,144.28,bronze whaler shark
+4,2018,injured,WA,"lefthanders, gracetown",-33.8416,115.0221,white shark
+4,2018,injured,WA,"cobblestones beach, gracetown",-33.8416,115.0221,white shark
+6,2018,injured,NSW,"arrawarra beach, coffs harbour",-30.296,153.11,wobbegong
+9,2018,injured,QLD,"cid harbour, whitsundays",-20.25,148.9333,tiger shark
+9,2018,injured,QLD,"cid harbour, whitsundays",-20.25,148.9333,tiger shark
+9,2018,injured,NT,"groote eylandt, arnhem land (east)",-13.97,136.5933,bull shark
+10,2018,injured,NSW,"samurai beach, nsw",-32.7667,152.0833,wobbegong
+11,2018,injured,NSW,"shelley beach, manly",-33.37,151.4859,wobbegong
+11,2018,injured,NSW,"shelly beach, ballina",-28.8632,153.5944,white shark
+11,2018,injured,NSW,"seven mile beach, nowra",-34.830278,150.7561,wobbegong
+11,2018,injured,NT,nhulunbuy,-12.1825,136.7819,whaler shark
+11,2018,injured,WA,"pyramids beach, mandurah",-32.6036,115.6304,grey nurse shark
+12,2018,injured,NSW,"the bar, nambucca river entrance",-30.643181,153.008839,
+12,2018,injured,NSW,"the entrance, gosford",-33.425018,151.342224,wobbegong
+2,2018,uninjured,WA,"avalon point, mandurah",-32.5361,115.7424,whaler shark
+3,2018,uninjured,WA,hamelin bay,-34.2256,115.0609,tiger shark
+4,2018,uninjured,WA,"main break, prevelly",-33.9825,114.9922,white shark
+5,2018,uninjured,WA,"lefthanders, gracetown",-33.8416,115.0221,white shark
+6,2018,uninjured,NSW,"flat rock, ballina",-28.84,153.601,white shark
+11,2018,uninjured,QLD,"moffat beach, sunshine coast",-26.791,153.139,tiger shark
+1,2019,injured,WA,north cottesloe,-31.989,115.7526,wobbegong
+2,2019,injured,NT,umbakumba - 12 km out to sea,-13.8611,136.8116,whitetip reef shark
+2,2019,injured,NSW,"belongil beach, byron bay",-28.6337,153.6003,white shark
+3,2019,injured,QLD,"block reef, whitsundays",-18.156,147.48,grey reef shark
+4,2019,injured,NSW,tomaree,-32.7501,152.1459,grey nurse shark
+5,2019,injured,QLD,yandaran,-24.7293,152.101,
+6,2019,injured,NSW,lennox point,-28.7999,153.58,whaler shark
+7,2019,injured,QLD,"cape grenville, far north queensland",-11.9667,143.2333,tiger shark
+7,2019,injured,NSW,"shelly beach, manly",-33.8005,151.2979,grey nurse shark
+7,2019,injured,QLD,"bells creek, sunshine coast",-26.7994,153.0611,bull shark
+7,2019,injured,NSW,"wooyung beach, far north coast",-28.45602,153.54457,bull shark
+9,2019,injured,NSW,surf beach kiama,-34.6817,150.8511,
+10,2019,injured,QLD,"hook passage, whitsundays",-21.957,148.1893,
+10,2019,injured,QLD,"hook passage, whitsundays",-20.3441,148.1893,
+11,2019,injured,QLD,"bargara, bundaberg",-24.8312,152.4592,
+12,2019,injured,WA,exmouth boat harbour,-20.3441,114.143,
+12,2019,injured,NSW,"killalea beach, shellharbour",-34.6038,150.8676,wobbegong
+12,2019,injured,QLD,north west island,-23.3,151.71,lemon shark
+2,2019,uninjured,WA,,-33.6702,114.9951,white shark
+2,2019,uninjured,NSW,,-30.452,152.8979,
+6,2019,uninjured,TAS,,-43.6523,146.277,white shark
+9,2019,uninjured,WA,"burns beach, perth",-31.7247,115.7249,white shark
+10,2019,uninjured,NSW,"lighthouse beach, seal rocks",-32.4436,152.5279,white shark
+10,2019,uninjured,QLD,"woorim, bribie island, queensland",-27.0609,153.2006,
+1,2020,fatal,WA,"cull island, esperance",-33.9222,121.9032,white shark
+4,2020,fatal,QLD,north west island,-23.2951,151.7079,
+6,2020,fatal,NSW,"casuarina beach, kingscliff ",-28.2778,153.5774,white shark
+7,2020,fatal,QLD,"fraser island, sunshine coast",-25.2398,153.1325,whaler shark
+7,2020,fatal,NSW,"wooli beach, wilsons headland, mid north coast",-29.853,153.2715,white shark
+9,2020,fatal,QLD,"greenmount beach, gold coast",-28.164,153.5476,white shark
+10,2020,fatal,WA,"kelps beds, esperance ",-34.8611,121.8919,white shark
+11,2020,fatal,WA,"cable beach, broome",-17.9319,122.2081,bull shark
+1,2020,injured,QLD,"north west island, gladstone, qld",-23.2951,151.7079,lemon shark
+1,2020,injured,NSW,"windang beach, wollongong, nsw",-34.5343,150.8746,
+2,2020,injured,QLD,"lizard island, research station",-14.6787,145.4483,lemon shark
+4,2020,injured,NSW,"killick creek, crescent head",-31.19,152.98,wobbegong
+5,2020,injured,VIC,bells beach,-38.3669,144.2847,whaler shark
+6,2020,injured,WA,"tantabiddi beach, ningaloo",-22.6799,113.698,
+7,2020,injured,WA,bunker bay,-33.5427,115.0392,white shark
+7,2020,injured,QLD,"fitzroy island, cairns",-16.9337,145.9943,whaler shark
+7,2020,injured,TAS,"stanley, north west coast",-40.7667,145.3,white shark
+8,2020,injured,NSW,"shelly beach, port macquarie",-31.4333,152.9,white shark
+9,2020,injured,NSW,"birubi, port stephens",-32.7876,153.08002,wobbegong
+10,2020,injured,NSW,"magic point, maroubra",-33.95,151.267,white shark
+10,2020,injured,QLD,"britomart reef, hinchinbrook island",-18.25,146.666944,bull shark
+11,2020,injured,NSW,"town beach, port macquarie",-31.4295,152.9193,wobbegong
+12,2020,injured,WA,"cable beach, broome",-17.9319,122.2081,bull shark
+12,2020,injured,SA,"d'estrees bay, kangaroo island",-35.9295,137.5966,white shark
+1,2020,uninjured,NSW,"gallows beach, coffs harbour",-30.3119,153.1427,bull shark
+1,2020,uninjured,WA,"geordie bay, rottnest island",-31.9908,115.5215,white shark
+4,2020,uninjured,WA,"steps surf break, lighthouse bay, exmouth",-21.93,114.117778,bull shark
+4,2020,uninjured,NSW,"surf beach, kiama",-34.6817,150.8511,bull shark
+6,2020,uninjured,NSW,macmasters beach,-33.49762,151.420378,white shark
+6,2020,uninjured,NSW,"bulli, illawarra",-34.33834,150.91347,bronze whaler shark
+6,2020,uninjured,NSW,"bulli, illawarra",-34.33834,150.91347,bronze whaler shark
+6,2020,uninjured,NSW,"bulli, illawarra",-34.33834,150.91347,bronze whaler shark
+7,2020,uninjured,NSW,"terrigal, central coast",-33.44815,151.44666,dusky shark
+9,2020,uninjured,NSW,cabarita beach ,-28.33362,153.569698,white shark
+9,2020,uninjured,NSW,"birubi, port stephens",-32.7876,152.08002,whaler shark
+10,2020,uninjured,NSW,"queenscliff, north steyne",-33.790172,151.288598,whaler shark
+11,2020,uninjured,QLD,"magpie reef, princess charlotte bay, cape york",-13.7333,143.8667,hammerhead shark
+5,2021,fatal,NSW,tuncurry beach,-32.1521,152.5053,white shark
+9,2021,fatal,NSW,emerald beach,-30.1575,153.1502,white shark
+11,2021,fatal,WA,"port beach, fremantle",-32.0569,115.7439,white shark
+1,2021,injured,NSW,lake macquarie,-33.0833,151.5833,bull shark
+1,2021,injured,WA,"melaleuca beach, cowaramup bay, gracetown",-33.864,114.9864,wobbegong
+1,2021,injured,WA,"swan river, point walter reserve, bicton",-32.0117,115.7866,bull shark
+2,2021,injured,WA,lancelin back beach,-31.034,115.3356,wobbegong
+3,2021,injured,NSW,merimbula main beach,-36.8875,149.9059,
+3,2021,injured,WA,"sandy point, warroora station, coral bay",-23.325,113.791,bull shark
+4,2021,injured,WA,dampier boat ramp,-20.6564,116.7081,blacktip reef shark
+5,2021,injured,WA,quondong beach,-17.5804,122.1571,tiger shark
+6,2021,injured,WA,"five fingers reef, coral bay",-23.1423,113.7723,tiger shark
+6,2021,injured,WA,"gumtree bay, leeman",-29.9453,114.9824,white shark
+7,2021,injured,NSW,killick beach at crescent head,-31.1295,153.0011,white shark
+7,2021,injured,WA,varanus island,-20.6517,115.5785,lemon shark
+9,2021,injured,NSW,"park beach, coffs harbour",-30.286,153.1364,wobbegong
+10,2021,injured,QLD,"hook passage, whitsundays",-20.2665,148.8819,
+10,2021,injured,NSW,moonee beach,-30.2042,153.149,wobbegong
+12,2021,injured,VIC,"ocean grove beach, geelong",-38.2676,144.5067,
+12,2021,injured,VIC,"ocean grove beach, geelong",-38.2676,144.5067,
+12,2021,injured,QLD,"rocky island, yarrabah, far north queensland",-16.9062,145.8662,bull shark
+3,2021,uninjured,NSW,"cronulla beach, sydney",-34.0557,151.1551,wobbegong
+3,2021,uninjured,WA,"deepene beach, elephant rock, hamelin bay",-34.2763,115.052,wobbegong
+3,2021,uninjured,WA,yallingup,-33.6397,115.0263,blacktip reef shark
+2,2022,fatal,NSW,"little bay, sydney",-30.883,153.083,white shark
+1,2022,injured,NSW,hyams beach (seamans),-35.1011,150.6892,whaler shark
+1,2022,injured,NSW,turimetta,-33.7,151.2999,wobbegong
+1,2022,injured,WA,"whalers beach, albany",-35.0031,117.866,wobbegong
+2,2022,injured,QLD,"Redcliffe, Brisbane",-27.2333,153.2667,tiger shark
+2,2022,injured,WA,"wylie bay, esperance",-33.84848,121.9184,white shark
+2,2022,injured,NSW,"shelley beach, manly",-33.8006,151.2982,wobbegong
+3,2022,injured,NSW,crowdy head beach,-32,152.7512,wobbegong
+3,2022,uninjured,NSW,"maroubra beach, sydney",-33.9516,151.2603,

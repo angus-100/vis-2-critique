@@ -1,0 +1,113 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "height": 450,
+    "width": 450,
+    "title": "Monthly incidents at different latitudes",
+    "background": "transparent",
+    "data": {
+        "url": "Shark_attack_data_clean.csv"
+    },
+
+    "params": [
+        {
+            "name": "Shark_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "white shark",
+                    "whitetip reef shark",
+                    "bull shark",
+                    "wobbegong",
+                    "tiger shark",
+                    "whaler shark",
+                    "grey nurse shark",
+                    "bronze whaler shark",
+                    "galapagos shark",
+                    "blacktip reef shark",
+                    "lemon shark",
+                    "grey reef shark",
+                    "hammerhead shark",
+                    "dusky shark",
+                    ""
+                ],
+                "labels": [
+                    "Show all",
+                    "White shark",
+                    "Whitetip reef shark",
+                    "Bull shark",
+                    "Wobbegong",
+                    "Tiger shark",
+                    "Whaler shark",
+                    "Grey nurse shark",
+                    "Bronze whaler shark",
+                    "Galapagos shark",
+                    "Blacktip reef shark",
+                    "Lemon shark",
+                    "Grey reef shark",
+                    "Hammerhead shark",
+                    "Dusky shark",
+                    "Unknown"
+                ],
+                "name": "Type of Shark: "
+            }
+        }
+        
+    ],
+    "transform": [
+        {"filter": "Shark_selection == null || datum.Shark == Shark_selection"}
+    ],
+
+    "mark": {
+        "type": "circle",
+        "size": 90,
+        "tooltip": {
+            "content": "data"
+        }
+    },
+    
+    "encoding": {
+        "x": {
+            "field": "Incident Month",
+            "type": "quantitative",
+            "title": "Month",
+            "axis": {"tickCount": 12},
+            "scale": {"domain": [0, 12]}
+        },
+        "y": {
+            "field": "Latitude",
+            "type": "quantitative",
+            "title": "Latitude",
+            "scale": {"domain": [-44, 0]}  
+
+        },
+
+        "color": {
+            "field": "Severity",
+            "type": "nominal",
+            "scale": {
+                        "domain": [
+                            "fatal",
+                            "injured",
+                            "uninjured"
+                        ],
+                        "range": [
+                            "#e41a1c",
+                            "#386cb0",
+                            "#4daf4a"
+                        ]
+            },
+            "legend": null
+        },
+        
+        "tooltip": [
+                    {"field": "Severity", "type": "nominal"},
+                    {"field": "Year", "type": "ordinal"},
+                    {"field": "Incident Month", "type": "ordinal"},
+                    {"field": "Location", "type": "nominal"},
+                    {"field": "State", "type": "nominal"},
+                    {"field": "Shark", "type": "nominal"}
+                ]
+                
+    }
+}
